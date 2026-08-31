@@ -1,114 +1,53 @@
 # Hi, I'm Mohib Ullah Foysal 👋
 
-### Computer Science & Technology Student | App & Web Developer
+### Computer Science & Technology Student | Flutter & Web Developer
 
-I'm a Computer Science & Technology student focused on **Mobile App Development and Web Development**.
-
-I enjoy building applications, exploring backend technologies, working with databases, and improving my understanding of software engineering.
-
----
+I build **mobile and web applications** while developing my skills in backend development, databases, and software engineering.
 
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science & Technology Student
-* 📱 Focused on Mobile App Development
-* 🌐 Developing Web Applications
-* ⚙️ Exploring Backend Development & REST APIs
-* 🗄️ Working with SQL and Database Systems
-* 🎨 Interested in UI/UX Design
-* 🚀 Building projects to develop practical software engineering skills
+* 📱 Focused on **Flutter & Mobile App Development**
+* 🌐 Building **Web Applications**
+* ⚙️ Learning **Backend & REST API Development**
+* 🗄️ Working with **MySQL & SQL**
+* 🎨 Interested in **UI/UX Design**
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies
+**Mobile:** Flutter • Dart • Android
 
-### 📱 Mobile Development
+**Web:** HTML • CSS • JavaScript • React • Next.js
 
-* Flutter
-* Dart
-* Android
+**Backend:** Node.js • PHP • Laravel • REST APIs
 
-### 🌐 Web Development
+**Database:** MySQL • SQL
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Next.js
+**Tools:** Git • GitHub • VS Code • Figma
 
-### ⚙️ Backend
+## 🚀 Featured Projects
 
-* Node.js
-* PHP
-* Laravel
-* REST APIs
+📱 **Mobile Applications** — Flutter-based apps with modern UI, authentication, APIs and database integration.
 
-### 🗄️ Database
+🌐 **Web Applications** — Responsive web applications with frontend, backend and database integration.
 
-* MySQL
-* SQL
-
-### 🔧 Tools
-
-* Git
-* GitHub
-* VS Code
-* Figma
-
----
+⚙️ **Backend Projects** — REST APIs, authentication and database-driven systems.
 
 ## 📚 Currently Learning
 
-* Advanced Flutter & Dart
-* REST API Development
-* Backend Architecture
-* Database Design
-* Modern Web Development
-* Software Engineering Fundamentals
-* Clean & Maintainable Code
+Flutter & Dart • REST APIs • Backend Architecture • Database Design • Software Engineering
 
----
+## 🎯 Goal
 
-## 🚀 What I Build
-
-### 📱 Mobile Applications
-
-Flutter-based mobile applications with modern interfaces, authentication, API integration, local storage, and database connectivity.
-
-### 🌐 Web Applications
-
-Responsive web applications with modern frontend technologies, authentication, dashboards, APIs, and database integration.
-
-### ⚙️ Backend Systems
-
-Backend services and REST APIs focused on authentication, data management, database integration, and application logic.
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a **professional software engineer** capable of designing and building complete applications — from **mobile and web interfaces to APIs, databases, and backend systems**.
-
----
-
-## 📊 GitHub
-
-I use GitHub to:
-
-* Build and document projects
-* Practice software development
-* Experiment with new technologies
-* Improve my code
-* Track my learning journey
-
----
+To become a **professional software engineer** capable of building complete mobile, web and backend applications.
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [[Add your LinkedIn](https://www.linkedin.com/in/mohib-ullah-064410326/)]
+* 💼 LinkedIn: [(https://www.linkedin.com/in/mohib-ullah-064410326/)]
 * 🌐 Portfolio: Coming Soon
 * 📧 Email: [mohibullah914275@gmail.com]
 
 ---
 
 ⭐ *Always learning. Always building.*
+
