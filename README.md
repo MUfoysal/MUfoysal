@@ -43,8 +43,8 @@ To become a **professional software engineer** capable of building complete mobi
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [(https://www.linkedin.com/in/mohib-ullah-064410326/)]
-* 🌐 Portfolio: Coming Soon
+* 💼 LinkedIn: [https://www.linkedin.com/in/mohib-ullah-064410326/]
+* 🌐 Portfolio: [https://mufoysal.github.io/portfolio/]
 * 📧 Email: [mohibullah914275@gmail.com]
 
 ---
